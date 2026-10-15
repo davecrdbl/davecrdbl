@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" alt="Header" width="100%" />
+<img src="assets/header.gif" alt="Header" width="100%" />
 
 # Hi 👋, I'm Dave
 
@@ -29,7 +29,7 @@ My goal is simple: write clean code, build reliable software, and create things 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="assets/about.png" alt="About" width="220" />
+<img src="assets/about.gif" alt="About" width="220" />
 
 </td>
 </tr>
